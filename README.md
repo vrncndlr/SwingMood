@@ -21,10 +21,12 @@ So far, the app includes the following features and functionality:
 * A front end user interface.
 * The ability to retrieve data from both API:s. Multiple calls are used to access data from the Soundcloud API, 
 a single call is used to get weather data about the users location.
-* Retrival of a single track based on emotion and weather. Playlist generation and custom media player together with other features will be implemented further down the line.
+* Retrival of a single track based on emotion and weather. 
+
 Features that are essential:
 * Weather data retrieval
 * Music playback
+
 Features that may be necessary for functionality (or just nice to have):
 * Playlist generation
 * Soundcloud login
