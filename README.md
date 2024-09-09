@@ -19,12 +19,9 @@ playback music. The OpenWeather API is used to retrieve weather data.
 ## Features
 So far, the app includes the following features and functionality:
 * A front end user interface.
-* The ability to retrieve data from both API:s. Multiple calls are used to access data from the Soundcloud API, 
-a single call is used to get weather data about the users location.
-* Retrival of a single track based on emotion and weather. 
-
-Current features:
-* Weather data retrieval
+* Sign up functionality and authentication.
+* The ability to retrieve data from two API:s.
+* Retrival of a single track based on emotion and weather.
 * Music playback
 
 Future features:
