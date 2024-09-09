@@ -23,11 +23,11 @@ So far, the app includes the following features and functionality:
 a single call is used to get weather data about the users location.
 * Retrival of a single track based on emotion and weather. 
 
-Features that are essential:
+Current features:
 * Weather data retrieval
 * Music playback
 
-Features that may be necessary for functionality (or just nice to have):
+Future features:
 * Playlist generation
 * Soundcloud login
 * Firebase persistance for user settings and generated playlist history
